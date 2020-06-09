@@ -5,7 +5,3 @@ Made this flash game a while back using Stencyl. To play, download "Noni_Platfor
 Play as Noni and collect the cat coins to advance through all five levels!
 
 ![GamePlayScreenShot](https://raw.githubusercontent.com/AdamBadagliacco/Noni-FlashGame/master/GamePlay.PNG)
-
-Can you make it to the end?
-
-![WinScreen](https://raw.githubusercontent.com/AdamBadagliacco/Noni-FlashGame/master/WinScreen.PNG)
