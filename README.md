@@ -8,4 +8,4 @@ Play as Noni and collect the cat coins to advance through all five levels!
 
 Can you make it to the end?
 
-(WinImage)
+![WinScreen](https://raw.githubusercontent.com/AdamBadagliacco/Noni-FlashGame/master/WinScreen.PNG)
